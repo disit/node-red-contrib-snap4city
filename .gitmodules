@@ -1,0 +1,3 @@
+[submodule "node-red-contrib-snap4city-user"]
+	path = node-red-contrib-snap4city-user
+	url = https://github.com/disit/node-red-contrib-snap4city-user.git
