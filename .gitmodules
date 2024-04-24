@@ -1,3 +1,18 @@
 [submodule "node-red-contrib-snap4city-user"]
 	path = node-red-contrib-snap4city-user
 	url = https://github.com/disit/node-red-contrib-snap4city-user.git
+[submodule "node-red-contrib-snap4city-developer"]
+	path = node-red-contrib-snap4city-developer
+	url = https://github.com/disit/node-red-contrib-snap4city-developer
+[submodule "node-red-contrib-snap4city-d3-dashboard-widgets"]
+	path = node-red-contrib-snap4city-d3-dashboard-widgets
+	url = https://github.com/disit/node-red-contrib-snap4city-d3-dashboard-widgets
+[submodule "node-red-contrib-snap4city-tunnel"]
+	path = node-red-contrib-snap4city-tunnel
+	url = https://github.com/disit/node-red-contrib-snap4city-tunnel
+[submodule "node-red-contrib-snap4city-milestone"]
+	path = node-red-contrib-snap4city-milestone
+	url = https://github.com/disit/node-red-contrib-snap4city-milestone
+[submodule "node-red-cauldron"]
+	path = node-red-cauldron
+	url = https://github.com/disit/node-red-cauldron
